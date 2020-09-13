@@ -1,0 +1,3 @@
+/Users/darwinquezada/CLionProjects/usermservice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/darwinquezada/CLionProjects/usermservice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/darwinquezada/CLionProjects/usermservice/cmake-build-debug/CMakeFiles/usermservice.dir
